@@ -1,0 +1,15 @@
+.center_align{
+    text-align: center;
+}
+
+.contact{
+    border: 2px solid black;
+    margin: 100px 170px 20px;
+    padding: 5px 5px 5px 10px;
+    height: 200px;
+    width: 210px;
+}
+
+.justify{
+    text-align: justify;
+}
